@@ -1,21 +1,36 @@
-# OpenIWF-Studio
-A free, open-source editor for various IDO smartwatches such as the IDW20, ID207, GTX19, DR06, etc.
+# OpenIWF Studio
 
-# How is it made?
-This application is made with the Qt5 C++ Framework.
+An open-source watchface editor for IWF-based IDO smartwatches.
 
-# Is it open-source?
-Yes it is. You can re-use the codes or adapt them anytime.
+## Features
+- Open and edit .iwf files
+- Multi-device resolution support
+- Custom asset importing
+- Device profile system
 
-# When will it be uploaded?
-Around March or April (Or even May) because it's going to be a big project.
+## Supported Devices
+- IDW20
+- ID207
+- GTX19
+- DR06
+- And other devices
 
-# Pre-Cautions
-This tool does not support cloud dial versions 1 and 2. If you accidentally load v3 on your device, then you'll need to contact idoosmart at https://www.idoosmart.com/contact.html to repair your device.
-Plus, sideloading cloud dials may expire your smartwatch's warranty and cannot be repaired.
+## Built With
+- Qt5 (C++)
+- qmake
 
-# IMPORTANT INFO
-I'm not associated with idoosmart (Shenzhen DO Intelligent Technology Co., Ltd.) or other Chinese companies.
-You'll need a rooted android phone or an iPhone with developer mode turned on to replace the dials.
+## Roadmap
+Public release planned for April 2026.
 
-# Made by Qalrix.
+## Important Notes
+Cloud Dial versions 1 and 2 are not supported.
+Flashing incompatible firmware or dials may brick your device.
+
+## Disclaimer
+OpenIWF Studio is not affiliated or Associated with 
+
+## License
+MIT License, Open-Source
+
+## Author
+Made by Qalrix
