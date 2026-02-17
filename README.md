@@ -27,7 +27,7 @@ Cloud Dial versions 1 and 2 are not supported.
 Flashing incompatible firmware or dials may brick your device.
 
 ## Disclaimer
-OpenIWF Studio is not affiliated or Associated with 
+OpenIWF Studio is NOT affiliated or Associated with idoosmart.
 
 ## License
 MIT License, Open-Source
